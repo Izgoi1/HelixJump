@@ -1,2 +1,2 @@
 # HelixJump
-Casual 3d game
+Casual mobile 3d game
